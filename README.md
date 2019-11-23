@@ -1,0 +1,2 @@
+# projectRedux
+SampleApp
